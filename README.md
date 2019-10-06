@@ -1,2 +1,2 @@
-# Medcurate
-Implementation of a blockchain platform which checks for counterfeit medicine.
+# Medicurator
+A unique blockchain solution for preventing fraudlent of medicines in the market.
